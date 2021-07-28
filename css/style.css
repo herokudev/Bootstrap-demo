@@ -7,3 +7,37 @@
     margin: 125px 0 0 0;
     padding: 0 0 0 15px;    
 }
+
+.button {
+    border: none;
+    color: #fff;
+    background-color: #ff6b00;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    color: #f55800;
+    background-color: #fff5e1;
+  }
+  
+  .button:active {
+    color: #f4f1f0;
+    background-color: #e05304;
+  }
+  
+  .button:disabled {
+    color: #5b5957;
+    background-color: #f4f1f0;
+  }
+  
+  .button1 {
+    width: 124px;
+    height: 48px;
+  }
+  
